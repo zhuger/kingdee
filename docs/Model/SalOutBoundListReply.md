@@ -1,0 +1,16 @@
+# SalOutBoundListReply
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**total_page** | **int** |  | [optional] 
+**current_page_size** | **int** |  | [optional] 
+**count** | **int** |  | [optional] 
+**page_size** | **int** |  | [optional] 
+**page** | **int** |  | [optional] 
+**rows** | [**\com_kingdee_service\data\entity\SalOutBoundListReplyRow[]**](SalOutBoundListReplyRow.md) |  | [optional] 
+**headers** | [**\com_kingdee_service\data\entity\SalOutBoundListReplyHeader**](SalOutBoundListReplyHeader.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

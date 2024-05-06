@@ -1,0 +1,51 @@
+# RetailBillListResMaterialEntries
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**index** | **string** |  | [optional] 
+**material_id** | **string** |  | [optional] 
+**barcode** | **string** |  | [optional] 
+**sku_id** | **string** |  | [optional] 
+**batch_no** | **string** |  | [optional] 
+**kf_date** | **string** |  | [optional] 
+**kf_type** | **string** |  | [optional] 
+**kf_period** | **string** |  | [optional] 
+**valid_date** | **string** |  | [optional] 
+**stock_id** | **string** |  | [optional] 
+**sp_id** | **string** |  | [optional] 
+**free** | **string** |  | [optional] 
+**unit_id** | **string** |  | [optional] 
+**base_unit_id** | **string** |  | [optional] 
+**qty** | **string** |  | [optional] 
+**return_qty** | **string** |  | [optional] 
+**base_qty** | **string** |  | [optional] 
+**price** | **string** |  | [optional] 
+**tax_price** | **string** |  | [optional] 
+**predis_amount** | **string** |  | [optional] 
+**dis_rate** | **string** |  | [optional] 
+**discount** | **string** |  | [optional] 
+**dis_amount** | **string** |  | [optional] 
+**dis_amount_before** | **string** |  | [optional] 
+**dis_price** | **string** |  | [optional] 
+**bill_dis_before_amount** | **string** |  | [optional] 
+**act_tax_price** | **string** |  | [optional] 
+**cess** | **string** |  | [optional] 
+**tax_amount** | **string** |  | [optional] 
+**bill_dis_distribution** | **string** |  | [optional] 
+**all_amount** | **string** |  | [optional] 
+**act_non_tax_price** | **string** |  | [optional] 
+**act_non_tax_amount** | **string** |  | [optional] 
+**material_info** | [**\com_kingdee_service\data\entity\RetailBillListResMaterialEntriesMaterialInfo**](RetailBillListResMaterialEntriesMaterialInfo.md) |  | [optional] 
+**is_serial** | **bool** |  | [optional] 
+**name** | **string** |  | [optional] 
+**is_batch** | **bool** |  | [optional] 
+**check_type** | **string** |  | [optional] 
+**all_amount_for** | **string** |  | [optional] 
+**serials** | **string[]** |  | [optional] 
+**total_dis_amount** | **string** |  | [optional] 
+**total_dis_rate** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

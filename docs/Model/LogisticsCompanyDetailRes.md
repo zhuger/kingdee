@@ -1,0 +1,25 @@
+# LogisticsCompanyDetailRes
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** |  | [optional] 
+**number** | **string** |  | [optional] 
+**name** | **string** |  | [optional] 
+**address** | **string** |  | [optional] 
+**mobile** | **string** |  | [optional] 
+**commont** | **string** |  | [optional] 
+**phone** | **string** |  | [optional] 
+**postal_code** | **string** |  | [optional] 
+**contact_linkman** | **string** |  | [optional] 
+**f_area_info** | **string** |  | [optional] 
+**creator_id** | **string** |  | [optional] 
+**creator_name** | **string** |  | [optional] 
+**create_time** | **string** |  | [optional] 
+**modify_time** | **string** |  | [optional] 
+**modifier_id** | **string** |  | [optional] 
+**modifier_name** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

@@ -1,0 +1,51 @@
+# MaterialEntity
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** |  | [optional] 
+**seq** | **double** |  | [optional] 
+**material_id** | **string** |  | [optional] 
+**material_name** | **string** |  | [optional] 
+**material_number** | **string** |  | [optional] 
+**material_auxprop_id** | **string** |  | [optional] 
+**material_auxprop_name** | **string** |  | [optional] 
+**material_auxprop_number** | **string** |  | [optional] 
+**aux1_id** | **string** |  | [optional] 
+**aux1_name** | **string** |  | [optional] 
+**aux1_number** | **string** |  | [optional] 
+**aux2_id** | **string** |  | [optional] 
+**aux2_name** | **string** |  | [optional] 
+**aux2_number** | **string** |  | [optional] 
+**aux3_id** | **string** |  | [optional] 
+**aux3_name** | **string** |  | [optional] 
+**aux3_number** | **string** |  | [optional] 
+**aux4_id** | **string** |  | [optional] 
+**aux4_name** | **string** |  | [optional] 
+**aux4_number** | **string** |  | [optional] 
+**aux5_id** | **string** |  | [optional] 
+**aux5_name** | **string** |  | [optional] 
+**aux5_number** | **string** |  | [optional] 
+**dosage_denominator** | **string** |  | [optional] 
+**dosage_numerator** | **string** |  | [optional] 
+**unitqty** | **double** |  | [optional] 
+**scrap** | **double** |  | [optional] 
+**fixed_loss** | **double** |  | [optional] 
+**iskeypieces** | **string** |  | [optional] 
+**isrepitem** | **string** |  | [optional] 
+**issue_pattern** | **string** |  | [optional] 
+**machinepos** | **string** |  | [optional] 
+**material_baseunit_id** | **string** |  | [optional] 
+**material_baseunit_name** | **string** |  | [optional] 
+**material_baseunit_number** | **string** |  | [optional] 
+**material_unit_id** | **string** |  | [optional] 
+**material_unit_name** | **string** |  | [optional] 
+**material_unit_number** | **string** |  | [optional] 
+**material_remark** | **string** |  | [optional] 
+**custom_txt1** | **string** |  | [optional] 
+**custom_txt2** | **string** |  | [optional] 
+**custom_txt3** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

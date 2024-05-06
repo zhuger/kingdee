@@ -1,0 +1,51 @@
+# CustomerDetailRes
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**modify_time** | **string** |  | [optional] 
+**invoice_name** | **string** |  | [optional] 
+**taxpayer_no** | **string** |  | [optional] 
+**bank_account** | **string** |  | [optional] 
+**bank** | **string** |  | [optional] 
+**account_open_addr** | **string** |  | [optional] 
+**invoice_type** | **string** |  | [optional] 
+**remark** | **string** |  | [optional] 
+**country_id** | **string** |  | [optional] 
+**country_number** | **string** |  | [optional] 
+**country_name** | **string** |  | [optional] 
+**province_id** | **string** |  | [optional] 
+**province_name** | **string** |  | [optional] 
+**province_number** | **string** |  | [optional] 
+**city_id** | **string** |  | [optional] 
+**city_number** | **string** |  | [optional] 
+**city_name** | **string** |  | [optional] 
+**district_id** | **string** |  | [optional] 
+**district_number** | **string** |  | [optional] 
+**district_name** | **string** |  | [optional] 
+**sale_dept_id** | **string** |  | [optional] 
+**sale_dept_number** | **string** |  | [optional] 
+**sale_dept_name** | **string** |  | [optional] 
+**c_level_id** | **string** |  | [optional] 
+**c_level_name** | **string** |  | [optional] 
+**c_level_number** | **string** |  | [optional] 
+**number** | **string** |  | [optional] 
+**rate** | **string** |  | [optional] 
+**enable** | **string** |  | [optional] 
+**bomentity** | [**\com_kingdee_service\data\entity\Bomentity[]**](Bomentity.md) |  | [optional] 
+**id** | **string** |  | [optional] 
+**addr** | **string** |  | [optional] 
+**group_id** | **string** |  | [optional] 
+**group_name** | **string** |  | [optional] 
+**group_number** | **string** |  | [optional] 
+**create_time** | **string** |  | [optional] 
+**creater_field_name** | **string** |  | [optional] 
+**saler_id** | **string** |  | [optional] 
+**saler_name** | **string** |  | [optional] 
+**saler_number** | **string** |  | [optional] 
+**name** | **string** |  | [optional] 
+**custom_field** | **map[string,string]** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

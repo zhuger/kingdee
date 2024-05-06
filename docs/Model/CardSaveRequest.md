@@ -1,0 +1,52 @@
+# CardSaveRequest
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **string** |  | [optional] 
+**name** | **string** |  | [optional] 
+**number** | **string** |  | [optional] 
+**is_init** | **bool** |  | [optional] 
+**group_id** | **string** |  | [optional] 
+**qty** | **string** |  | [optional] 
+**alter_mode_id** | **string** |  | [optional] 
+**dept_list** | [**\com_kingdee_service\data\entity\CardSaveRequestDeptlist[]**](CardSaveRequestDeptlist.md) |  | [optional] 
+**depr_method_id** | **string** |  | [optional] 
+**depr_type** | **string** |  | [optional] 
+**begin_use_date** | **string** |  | [optional] 
+**record_date** | **string** |  | [optional] 
+**max_depr_periods** | **string** |  | [optional] 
+**used_periods** | **string** |  | [optional] 
+**orgval_list** | [**\com_kingdee_service\data\entity\CardSaveRequestOrgvallist[]**](CardSaveRequestOrgvallist.md) |  | [optional] 
+**asset_acct_id** | **string** |  | [optional] 
+**asset_acct_assist** | [**\com_kingdee_service\data\entity\CommonAssist[]**](CommonAssist.md) |  | [optional] 
+**asset_detail_id** | **string** |  | [optional] 
+**depr_detail_id** | **string** |  | [optional] 
+**expense_list** | [**\com_kingdee_service\data\entity\FaCardExpenselist[]**](FaCardExpenselist.md) |  | [optional] 
+**tax_acct_id** | **string** |  | [optional] 
+**tax_acct_assist** | [**\com_kingdee_service\data\entity\CommonAssist[]**](CommonAssist.md) |  | [optional] 
+**tax_detail_id** | **string** |  | [optional] 
+**dec_pre_acct_id** | **string** |  | [optional] 
+**dec_pre_acct_assist** | [**\com_kingdee_service\data\entity\CommonAssist[]**](CommonAssist.md) |  | [optional] 
+**dec_pre_detail_id** | **string** |  | [optional] 
+**alter_acct_id** | **string** |  | [optional] 
+**alter_acct_assist** | [**\com_kingdee_service\data\entity\CommonAssist[]**](CommonAssist.md) |  | [optional] 
+**alter_detail_id** | **string** |  | [optional] 
+**oppo_site_list** | [**\com_kingdee_service\data\entity\CardSaveRequestOppositelist[]**](CardSaveRequestOppositelist.md) |  | [optional] 
+**model** | **string** |  | [optional] 
+**unit_id** | **string** |  | [optional] 
+**emp_id** | **string** |  | [optional] 
+**max_used_periods** | **string** |  | [optional] 
+**location_id** | **string** |  | [optional] 
+**location_name** | [**\com_kingdee_service\data\entity\Devicelist[]**](Devicelist.md) |  | [optional] 
+**tax** | **string** |  | [optional] 
+**dec_pre_value** | **string** |  | [optional] 
+**residue_value** | **string** |  | [optional] 
+**net_value** | **string** |  | [optional] 
+**net_amount** | **string** |  | [optional] 
+**accum_depr** | **string** |  | [optional] 
+**depr_acct_id** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
